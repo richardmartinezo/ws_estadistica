@@ -1,0 +1,1 @@
+<%@ Application Codebehind="Global.asax.cs" Inherits="WS_SEADGAC_V2.Global_asax" Language="C#" %>
